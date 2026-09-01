@@ -1,0 +1,91 @@
+[
+    {
+        "id" : 1,
+        "company" : "Google",
+        "role": "AI Engineer",
+        "salary" : "24LPA",
+        "location" : "Bangalore",
+        "description" : "Should know how LLMs works , have knowledge on RAG , Embeddings, Agentic AI"
+    },
+    {
+        "id" : 2,
+        "company" : "Google",
+        "role": "Software Engineer",
+        "salary" : "24LPA",
+        "location" : "Bangalore",
+        "description" : "Have a strong CS knowledge , Good at Data Structures , Should know any of C++,Java,Python"
+    },
+    {
+        "id" : 3,
+        "company" : "Microsoft",
+        "role": "Data Analyst",
+        "salary" : "24LPA",
+        "location" : "Hyderabad",
+        "description" : "Strong knowledge on SQL, Excel, PowerBI and Statistics "
+    },
+    {
+        "id" : 4,
+        "company" : "Salesforce",
+        "role": "Salesforce Developer",
+        "salary" : "45LPA",
+        "location" : "Hyderabad",
+        "description" : "Strong knowledge on SQL, Excel, PowerBI and Statistics "
+    },
+    {
+        "id" : 5,
+        "company" : "PayPal",
+        "role": "Software Engineer",
+        "salary" : "34LPA",
+        "location" : "Bangalore",
+         "description" : "Have a strong CS knowledge , Good at Data Structures , Should know any of C++,Java,Python"
+
+    },
+    {
+        "id" : 6,
+        "company" : "JP Morgan",
+        "role": "Software Engineer",
+        "salary" : "24LPA",
+        "location" : "Bangalore",
+         "description" : "Have a strong CS knowledge , Good at Data Structures , Should know any of C++,Java,Python"
+    },
+    {
+        "id" : 7,
+        "company" : "Amazon",
+        "role": "Software Engineer",
+        "salary" : "24LPA",
+        "location" : "Hyderabad",
+         "description" : "Have a strong CS knowledge , Good at Data Structures , Should know any of C++,Java,Python"
+    },
+    {
+        "id" : 8,
+        "company" : "SAP",
+        "role": "Forward Deployed Engineer",
+        "salary" : "54LPA",
+        "location" : "Bangalore",
+         "description" : "Should have expericence on Docker , Kubernetes , and should be able to scale the applications "
+    },
+    {
+        "id" : 9,
+        "company" : "JP Morgan",
+        "role": "Backend Developer",
+        "salary" : "24LPA",
+        "location" : "Bangalore",
+        "description" : "Strong in DS and able to design architecture the Database and should have knowledge on APIs, Node.js/Springboot "
+    },
+    {
+        "id" : 10,
+        "company" : "PayPal",
+        "role": "Cloud Engineer",
+        "salary" : "44LPA",
+        "location" : "Bangalore",
+        "description" : "Should have expericence on Docker , Kubernetes , and should be able to scale the applications "
+    },
+    {
+        "id" : 11,
+        "company" : "Honeywell",
+        "role": "Fullstack Developer",
+        "salary" : "44LPA",
+        "location" : "Bangalore",
+        "description" : "Should have expericence on Docker , Kubernetes , and should be able to scale the applications "
+    }
+]
